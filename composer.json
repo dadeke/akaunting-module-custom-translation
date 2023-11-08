@@ -1,0 +1,25 @@
+{
+    "name": "dadeke/akaunting-module-custom-translation",
+    "description": "Custom Translation for Akaunting",
+    "version": "1.0.0",
+    "homepage": "https://github.com/dadeke",
+    "keywords": [
+        "laravel",
+        "accounting",
+        "invoice",
+        "akaunting",
+        "translation"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "Deividson Damasio",
+        "email": "deividsondamasio@yahoo.com.br",
+        "homepage": "https://github.com/dadeke",
+        "role": "Web Developer"
+    }],
+    "scripts": {
+        "test": [
+            "composer install --prefer-dist --no-interaction --no-scripts --no-suggest --no-progress --no-ansi"
+        ]
+    }
+}

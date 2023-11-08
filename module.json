@@ -1,0 +1,16 @@
+{
+    "alias": "custom-translation",
+    "icon": "flag",
+    "version": "1.0.0",
+    "active": 1,
+    "providers": [
+        "Modules\\CustomTranslation\\Providers\\Main"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "reports": [],
+    "widgets": [],
+    "settings": [],
+    "extra-modules": {}
+}
